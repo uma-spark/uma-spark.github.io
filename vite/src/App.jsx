@@ -11,6 +11,7 @@ import html2canvas from "html2canvas";
 
 function CardItem({ card, clickCard, size }) {
 	const source = `/cards/support_card_s_${card.id}.png`;
+	const statSource = `/stat/${card.type}.png`;
 	const titleIndex = card.name.indexOf("]");
 	const cardTitle = card.name.slice(0, titleIndex + 1);
 	const cardName = card.name.slice(titleIndex + 2);
@@ -19,11 +20,7 @@ function CardItem({ card, clickCard, size }) {
 		<div role="button" className="card" onClick={clickCard} style={style}>
 			<img className="card-thumb" src={source} alt={cardName}></img>
 			<div className="status">
-				<img
-					className="status-thumb"
-					src={`/stats/utx_ico_obtain_0${card.type}.png`}
-					alt=""
-				></img>
+				<img className="status-thumb" src={statSource}></img>
 			</div>
 			<div className="card-hover">
 				<div className="card-title">{cardTitle}</div>

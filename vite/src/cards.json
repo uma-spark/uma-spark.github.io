@@ -3,749 +3,749 @@
     "id": 30001,
     "rarity": 3,
     "name": "[The Brightest Star in Japan!] Special Week",
-    "type": 1,
+    "type": 103,
     "ts": 1614124800
   },
   {
     "id": 30002,
     "rarity": 3,
     "name": "[Beyond This Shining Moment] Silence Suzuka",
-    "type": 1,
+    "type": 101,
     "ts": 1614124800
   },
   {
     "id": 30003,
     "rarity": 3,
     "name": "[Dream Big!] Tokai Teio",
-    "type": 1,
+    "type": 101,
     "ts": 1614124800
   },
   {
     "id": 30004,
     "rarity": 3,
     "name": "[Breakaway Battleship] Gold Ship",
-    "type": 1,
+    "type": 105,
     "ts": 1614124800
   },
   {
     "id": 30005,
     "rarity": 3,
     "name": "[Wild Rider] Vodka",
-    "type": 1,
+    "type": 102,
     "ts": 1614124800
   },
   {
     "id": 30006,
     "rarity": 3,
     "name": "[Fairest Fleur] Grass Wonder",
-    "type": 1,
+    "type": 103,
     "ts": 1614124800
   },
   {
     "id": 30007,
     "rarity": 3,
     "name": "[Champion's Passion] El Condor Pasa",
-    "type": 1,
+    "type": 102,
     "ts": 1614124800
   },
   {
     "id": 30008,
     "rarity": 3,
     "name": "[Foolproof Plan] Seiun Sky",
-    "type": 1,
+    "type": 105,
     "ts": 1614124800
   },
   {
     "id": 30009,
     "rarity": 3,
     "name": "[Split the Sky, White Lightning!] Tamamo Cross",
-    "type": 1,
+    "type": 105,
     "ts": 1614124800
   },
   {
     "id": 30010,
     "rarity": 3,
     "name": "[Wave of Gratitude] Fine Motion",
-    "type": 1,
+    "type": 106,
     "ts": 1614124800
   },
   {
     "id": 30011,
     "rarity": 3,
     "name": "[Watch My Star Fly!] Ines Fujin",
-    "type": 1,
+    "type": 103,
     "ts": 1614124800
   },
   {
     "id": 30012,
     "rarity": 3,
     "name": "[BNWinner!] Winning Ticket",
-    "type": 1,
+    "type": 103,
     "ts": 1614124800
   },
   {
     "id": 30013,
     "rarity": 3,
     "name": "[7 More Centimeters] Air Shakur",
-    "type": 1,
+    "type": 106,
     "ts": 1614124800
   },
   {
     "id": 30014,
     "rarity": 3,
     "name": "[Run(my)way] Gold City",
-    "type": 1,
+    "type": 101,
     "ts": 1614124800
   },
   {
     "id": 30015,
     "rarity": 3,
     "name": "[Eat Fast! Yum Fast!] Sakura Bakushin O",
-    "type": 1,
+    "type": 101,
     "ts": 1614124800
   },
   {
     "id": 30016,
     "rarity": 3,
     "name": "[Piece of Mind] Super Creek",
-    "type": 1,
+    "type": 105,
     "ts": 1614124800
   },
   {
     "id": 30017,
     "rarity": 3,
     "name": "[My Umadol Way! \u2606] Smart Falcon",
-    "type": 1,
+    "type": 102,
     "ts": 1614124800
   },
   {
     "id": 30018,
     "rarity": 3,
     "name": "[Even the Littlest Bud] Nishino Flower",
-    "type": 1,
+    "type": 101,
     "ts": 1614124800
   },
   {
     "id": 30019,
     "rarity": 3,
     "name": "[Urara's Day Off!] Haru Urara",
-    "type": 1,
+    "type": 103,
     "ts": 1614124800
   },
   {
     "id": 30020,
     "rarity": 3,
     "name": "[Double Carrot Punch!] Biko Pegasus",
-    "type": 1,
+    "type": 101,
     "ts": 1614124800
   },
   {
     "id": 30021,
     "rarity": 3,
     "name": "[Tracen Reception] Tazuna Hayakawa",
-    "type": 2,
+    "type": 0,
     "ts": 1614124800
   },
   {
     "id": 30022,
     "rarity": 3,
     "name": "[Your Team Ace] Mejiro McQueen",
-    "type": 1,
+    "type": 105,
     "ts": 1614124800
   },
   {
     "id": 30023,
     "rarity": 3,
     "name": "[Showered in Joy] Rice Shower",
-    "type": 1,
+    "type": 105,
     "ts": 1614124800
   },
   {
     "id": 30024,
     "rarity": 3,
     "name": "[Get Lots of Hugs for Me] Oguri Cap",
-    "type": 1,
+    "type": 102,
     "ts": 1750897800
   },
   {
     "id": 30025,
     "rarity": 3,
     "name": "[The Setting Sun and Rising Stars] Special Week",
-    "type": 1,
+    "type": 101,
     "ts": 1750897800
   },
   {
     "id": 30026,
     "rarity": 3,
     "name": "[Turbo Booooost!] Twin Turbo",
-    "type": 1,
+    "type": 101,
     "ts": 1751493600
   },
   {
     "id": 30027,
     "rarity": 3,
     "name": "[Go Ahead and Laugh] Mejiro Palmer",
-    "type": 1,
+    "type": 103,
     "ts": 1752184800
   },
   {
     "id": 30028,
     "rarity": 3,
-    "name": "[Go Ahead and Laugh] Kitasan Black",
-    "type": 1,
+    "name": "[Fire at My Heels] Kitasan Black",
+    "type": 101,
     "ts": 1752184800
   },
   {
     "id": 30029,
     "rarity": 3,
-    "name": "[Go Ahead and Laugh] Satono Diamond",
-    "type": 1,
+    "name": "[The Will to Overtake] Satono Diamond",
+    "type": 105,
     "ts": 1752184800
   },
   {
     "id": 20001,
     "rarity": 2,
     "name": "[Well, Look Who's Home] Fuji Kiseki",
-    "type": 1,
+    "type": 106,
     "ts": 1614124800
   },
   {
     "id": 20002,
     "rarity": 2,
     "name": "[Nothing Hard Work Can't Solve!] Daiwa Scarlet",
-    "type": 1,
+    "type": 106,
     "ts": 1614124800
   },
   {
     "id": 20003,
     "rarity": 2,
     "name": "[Reach the Top!] Hishi Amazon",
-    "type": 1,
+    "type": 102,
     "ts": 1614124800
   },
   {
     "id": 20004,
     "rarity": 2,
     "name": "[Nothing Escapes the Vice Prez] Air Groove",
-    "type": 1,
+    "type": 103,
     "ts": 1614124800
   },
   {
     "id": 20005,
     "rarity": 2,
     "name": "[Digital's Recharge Station] Agnes Digital",
-    "type": 1,
+    "type": 102,
     "ts": 1614124800
   },
   {
     "id": 20006,
     "rarity": 2,
     "name": "[Trial Initiation] Biwa Hayahide",
-    "type": 1,
+    "type": 102,
     "ts": 1614124800
   },
   {
     "id": 20007,
     "rarity": 2,
     "name": "[Cute + Cute = ?] Mayano Top Gun",
-    "type": 1,
+    "type": 105,
     "ts": 1614124800
   },
   {
     "id": 20008,
     "rarity": 2,
     "name": "[My Solo Drawn to Raindrop Drums] Manhattan Cafe",
-    "type": 1,
+    "type": 105,
     "ts": 1614124800
   },
   {
     "id": 20009,
     "rarity": 2,
     "name": "[Pal-Assisted Training] Mihono Bourbon",
-    "type": 1,
+    "type": 102,
     "ts": 1614124800
   },
   {
     "id": 20010,
     "rarity": 2,
     "name": "[On and Off the Court] Mejiro Ryan",
-    "type": 1,
+    "type": 102,
     "ts": 1614124800
   },
   {
     "id": 20011,
     "rarity": 2,
     "name": "[City Girl 101] Yukino Bijin",
-    "type": 1,
+    "type": 103,
     "ts": 1614124800
   },
   {
     "id": 20012,
     "rarity": 2,
     "name": "[Experimental Studies on Subject A] Agnes Tachyon",
-    "type": 1,
+    "type": 106,
     "ts": 1614124800
   },
   {
     "id": 20013,
     "rarity": 2,
     "name": "[5:00 a.m.\u2014Right on Schedule] Eishin Flash",
-    "type": 1,
+    "type": 101,
     "ts": 1614124800
   },
   {
     "id": 20014,
     "rarity": 2,
     "name": "[Poolside High Tides] Narita Taishin",
-    "type": 1,
+    "type": 101,
     "ts": 1614124800
   },
   {
     "id": 20015,
     "rarity": 2,
     "name": "[A Marvelous \u2606 Plan] Marvelous Sunday",
-    "type": 1,
+    "type": 106,
     "ts": 1614124800
   },
   {
     "id": 20016,
     "rarity": 2,
     "name": "[Fate's Forecast] Matikanefukukitaru",
-    "type": 1,
+    "type": 106,
     "ts": 1614124800
   },
   {
     "id": 20017,
     "rarity": 2,
     "name": "[Fighting for Fortune] Meisho Doto",
-    "type": 1,
+    "type": 103,
     "ts": 1614124800
   },
   {
     "id": 20018,
     "rarity": 2,
     "name": "[Ignore the Stares] Mejiro Dober",
-    "type": 1,
+    "type": 106,
     "ts": 1614124800
   },
   {
     "id": 20019,
     "rarity": 2,
     "name": "[It's Just Water] Nice Nature",
-    "type": 1,
+    "type": 103,
     "ts": 1614124800
   },
   {
     "id": 20020,
     "rarity": 2,
     "name": "[First-Rate Plan] King Halo",
-    "type": 1,
+    "type": 101,
     "ts": 1614124800
   },
   {
     "id": 20021,
     "rarity": 2,
     "name": "[Trainers' Teamwork] Aoi Kiryuin",
-    "type": 2,
+    "type": 0,
     "ts": 1614124800
   },
   {
     "id": 20023,
     "rarity": 2,
     "name": "[Lamplit Training of a Witch-to-Be] Sweep Tosho",
-    "type": 1,
+    "type": 101,
     "ts": 1750897800
   },
   {
     "id": 20024,
     "rarity": 2,
     "name": "[Let's Get This Party Lit!] Daitaku Helios",
-    "type": 1,
+    "type": 102,
     "ts": 1751493600
   },
   {
     "id": 20025,
     "rarity": 2,
     "name": "[Never Skip Warm-Ups] Ikuno Dictus",
-    "type": 1,
+    "type": 106,
     "ts": 1752184800
   },
   {
     "id": 10001,
     "rarity": 1,
     "name": "[Tracen Academy] Special Week",
-    "type": 1,
+    "type": 103,
     "ts": 1614124800
   },
   {
     "id": 10002,
     "rarity": 1,
     "name": "[Tracen Academy] Silence Suzuka",
-    "type": 1,
+    "type": 101,
     "ts": 1614124800
   },
   {
     "id": 10003,
     "rarity": 1,
     "name": "[Tracen Academy] Tokai Teio",
-    "type": 1,
+    "type": 101,
     "ts": 1614124800
   },
   {
     "id": 10004,
     "rarity": 1,
     "name": "[Tracen Academy] Maruzensky",
-    "type": 1,
+    "type": 101,
     "ts": 1614124800
   },
   {
     "id": 10005,
     "rarity": 1,
     "name": "[Tracen Academy] Oguri Cap",
-    "type": 1,
+    "type": 102,
     "ts": 1614124800
   },
   {
     "id": 10006,
     "rarity": 1,
     "name": "[Tracen Academy] Gold Ship",
-    "type": 1,
+    "type": 105,
     "ts": 1614124800
   },
   {
     "id": 10007,
     "rarity": 1,
     "name": "[Tracen Academy] Vodka",
-    "type": 1,
+    "type": 102,
     "ts": 1614124800
   },
   {
     "id": 10008,
     "rarity": 1,
     "name": "[Tracen Academy] Taiki Shuttle",
-    "type": 1,
+    "type": 101,
     "ts": 1614124800
   },
   {
     "id": 10009,
     "rarity": 1,
     "name": "[Tracen Academy] Grass Wonder",
-    "type": 1,
+    "type": 103,
     "ts": 1614124800
   },
   {
     "id": 10010,
     "rarity": 1,
     "name": "[Tracen Academy] Mejiro McQueen",
-    "type": 1,
+    "type": 105,
     "ts": 1614124800
   },
   {
     "id": 10011,
     "rarity": 1,
     "name": "[Tracen Academy] El Condor Pasa",
-    "type": 1,
+    "type": 102,
     "ts": 1614124800
   },
   {
     "id": 10012,
     "rarity": 1,
     "name": "[Tracen Academy] T.M. Opera O",
-    "type": 1,
+    "type": 105,
     "ts": 1614124800
   },
   {
     "id": 10013,
     "rarity": 1,
     "name": "[Tracen Academy] Symboli Rudolf",
-    "type": 1,
+    "type": 106,
     "ts": 1614124800
   },
   {
     "id": 10014,
     "rarity": 1,
     "name": "[Tracen Academy] Seiun Sky",
-    "type": 1,
+    "type": 105,
     "ts": 1614124800
   },
   {
     "id": 10015,
     "rarity": 1,
     "name": "[Tracen Academy] Rice Shower",
-    "type": 1,
+    "type": 105,
     "ts": 1614124800
   },
   {
     "id": 10016,
     "rarity": 1,
     "name": "[Tracen Academy] Winning Ticket",
-    "type": 1,
+    "type": 103,
     "ts": 1614124800
   },
   {
     "id": 10017,
     "rarity": 1,
     "name": "[Tracen Academy] Gold City",
-    "type": 1,
+    "type": 101,
     "ts": 1614124800
   },
   {
     "id": 10018,
     "rarity": 1,
     "name": "[Tracen Academy] Sakura Bakushin O",
-    "type": 1,
+    "type": 101,
     "ts": 1614124800
   },
   {
     "id": 10019,
     "rarity": 1,
     "name": "[Tracen Academy] Super Creek",
-    "type": 1,
+    "type": 105,
     "ts": 1614124800
   },
   {
     "id": 10020,
     "rarity": 1,
     "name": "[Tracen Academy] Haru Urara",
-    "type": 1,
+    "type": 103,
     "ts": 1614124800
   },
   {
     "id": 10021,
     "rarity": 1,
     "name": "[Tracen Academy] Tazuna Hayakawa",
-    "type": 2,
+    "type": 0,
     "ts": 1614124800
   },
   {
     "id": 10022,
     "rarity": 1,
     "name": "[Tracen Academy] Aoi Kiryuin",
-    "type": 2,
+    "type": 0,
     "ts": 1614124800
   },
   {
     "id": 10023,
     "rarity": 1,
     "name": "[Tracen Academy] Daiwa Scarlet",
-    "type": 1,
+    "type": 106,
     "ts": 1614124800
   },
   {
     "id": 10024,
     "rarity": 1,
     "name": "[Tracen Academy] Hishi Amazon",
-    "type": 1,
+    "type": 102,
     "ts": 1614124800
   },
   {
     "id": 10025,
     "rarity": 1,
     "name": "[Tracen Academy] Air Groove",
-    "type": 1,
+    "type": 103,
     "ts": 1614124800
   },
   {
     "id": 10026,
     "rarity": 1,
     "name": "[Tracen Academy] Agnes Digital",
-    "type": 1,
+    "type": 102,
     "ts": 1614124800
   },
   {
     "id": 10027,
     "rarity": 1,
     "name": "[Tracen Academy] Tamamo Cross",
-    "type": 1,
+    "type": 105,
     "ts": 1614124800
   },
   {
     "id": 10028,
     "rarity": 1,
     "name": "[Tracen Academy] Fine Motion",
-    "type": 1,
+    "type": 106,
     "ts": 1614124800
   },
   {
     "id": 10029,
     "rarity": 1,
     "name": "[Tracen Academy] Biwa Hayahide",
-    "type": 1,
+    "type": 102,
     "ts": 1614124800
   },
   {
     "id": 10030,
     "rarity": 1,
     "name": "[Tracen Academy] Mayano Top Gun",
-    "type": 1,
+    "type": 105,
     "ts": 1614124800
   },
   {
     "id": 10031,
     "rarity": 1,
     "name": "[Tracen Academy] Manhattan Cafe",
-    "type": 1,
+    "type": 105,
     "ts": 1614124800
   },
   {
     "id": 10032,
     "rarity": 1,
     "name": "[Tracen Academy] Mihono Bourbon",
-    "type": 1,
+    "type": 102,
     "ts": 1614124800
   },
   {
     "id": 10033,
     "rarity": 1,
     "name": "[Tracen Academy] Mejiro Ryan",
-    "type": 1,
+    "type": 102,
     "ts": 1614124800
   },
   {
     "id": 10034,
     "rarity": 1,
     "name": "[Tracen Academy] Yukino Bijin",
-    "type": 1,
+    "type": 103,
     "ts": 1614124800
   },
   {
     "id": 10035,
     "rarity": 1,
     "name": "[Tracen Academy] Ines Fujin",
-    "type": 1,
+    "type": 103,
     "ts": 1614124800
   },
   {
     "id": 10036,
     "rarity": 1,
     "name": "[Tracen Academy] Agnes Tachyon",
-    "type": 1,
+    "type": 106,
     "ts": 1614124800
   },
   {
     "id": 10037,
     "rarity": 1,
     "name": "[Tracen Academy] Air Shakur",
-    "type": 1,
+    "type": 106,
     "ts": 1614124800
   },
   {
     "id": 10038,
     "rarity": 1,
     "name": "[Tracen Academy] Eishin Flash",
-    "type": 1,
+    "type": 101,
     "ts": 1614124800
   },
   {
     "id": 10039,
     "rarity": 1,
     "name": "[Tracen Academy] Smart Falcon",
-    "type": 1,
+    "type": 102,
     "ts": 1614124800
   },
   {
     "id": 10040,
     "rarity": 1,
     "name": "[Tracen Academy] Narita Taishin",
-    "type": 1,
+    "type": 101,
     "ts": 1614124800
   },
   {
     "id": 10041,
     "rarity": 1,
     "name": "[Tracen Academy] Nishino Flower",
-    "type": 1,
+    "type": 101,
     "ts": 1614124800
   },
   {
     "id": 10042,
     "rarity": 1,
     "name": "[Tracen Academy] Biko Pegasus",
-    "type": 1,
+    "type": 101,
     "ts": 1614124800
   },
   {
     "id": 10043,
     "rarity": 1,
     "name": "[Tracen Academy] Marvelous Sunday",
-    "type": 1,
+    "type": 106,
     "ts": 1614124800
   },
   {
     "id": 10044,
     "rarity": 1,
     "name": "[Tracen Academy] Matikanefukukitaru",
-    "type": 1,
+    "type": 106,
     "ts": 1614124800
   },
   {
     "id": 10045,
     "rarity": 1,
     "name": "[Tracen Academy] Meisho Doto",
-    "type": 1,
+    "type": 103,
     "ts": 1614124800
   },
   {
     "id": 10046,
     "rarity": 1,
     "name": "[Tracen Academy] Mejiro Dober",
-    "type": 1,
+    "type": 106,
     "ts": 1614124800
   },
   {
     "id": 10047,
     "rarity": 1,
     "name": "[Tracen Academy] Nice Nature",
-    "type": 1,
+    "type": 103,
     "ts": 1614124800
   },
   {
     "id": 10048,
     "rarity": 1,
     "name": "[Tracen Academy] King Halo",
-    "type": 1,
+    "type": 101,
     "ts": 1614124800
   },
   {
     "id": 10049,
     "rarity": 1,
     "name": "[Tracen Academy] Fuji Kiseki",
-    "type": 1,
+    "type": 106,
     "ts": 1614124800
   },
   {
     "id": 10050,
     "rarity": 1,
     "name": "[Tracen Academy] Sweep Tosho",
-    "type": 1,
+    "type": 101,
     "ts": 1750897800
   },
   {
     "id": 10051,
     "rarity": 1,
     "name": "[Tracen Academy] Twin Turbo",
-    "type": 1,
+    "type": 101,
     "ts": 1751493600
   },
   {
     "id": 10052,
     "rarity": 1,
     "name": "[Tracen Academy] Daitaku Helios",
-    "type": 1,
+    "type": 102,
     "ts": 1751493600
   },
   {
     "id": 10053,
     "rarity": 1,
     "name": "[Tracen Academy] Ikuno Dictus",
-    "type": 1,
+    "type": 106,
     "ts": 1752184800
   },
   {
     "id": 10054,
     "rarity": 1,
     "name": "[Tracen Academy] Mejiro Palmer",
-    "type": 1,
+    "type": 103,
     "ts": 1752184800
   }
 ]
