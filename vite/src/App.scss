@@ -8,8 +8,7 @@
 	height: 100%;
 	width: 100%;
 	display: grid;
-	grid-template-columns: 1fr auto;
-	grid-template-rows: 100%;
+	grid-template: 'selected picker' 100% / 1fr auto;
 	gap: 8px;
 	background-color: black;
 }
@@ -19,6 +18,7 @@
 }
 
 .spark-selected {
+	grid-area: selected;
 	display: grid;
 	grid-template-columns: 460px auto;
 	grid-template-rows: 100%;
@@ -46,6 +46,7 @@
 }
 
 .card-picker {
+	grid-area: picker;
 	display: flex;
 	flex-direction: column;
 	overflow: clip;
@@ -80,6 +81,20 @@
 				&:hover {
 					img {
 						opacity: 0.3;
+					}
+				}
+			}
+
+			@media (pointer: coarse) {
+				&:hover {
+					img {
+						opacity: 0.3;
+					}
+				}
+
+				&.active:hover {
+					img {
+						opacity: 1;
 					}
 				}
 			}
@@ -125,6 +140,16 @@
 
 	.card-picker-actions {
 		display: flex;
+
+		>* {
+			&:first-child {
+				border-radius: 5px 0 0 5px;
+			}
+
+			&:last-child {
+				border-radius: 0 5px 5px 0;
+			}
+		}
 	}
 
 	.card-picker-photo-actions {
@@ -132,9 +157,20 @@
 		position: absolute;
 		top: 10px;
 		right: 10px;
+		flex-direction: column;
 
 		&.hide-menu {
 			display: none;
+		}
+
+		>* {
+			&:first-child {
+				border-radius: 5px 5px 0 0;
+			}
+
+			&:last-child {
+				border-radius: 0 0 5px 5px;
+			}
 		}
 	}
 
@@ -158,14 +194,6 @@
 		&:hover {
 			background-color: white;
 			color: black;
-		}
-
-		&:first-child {
-			border-radius: 5px 0 0 5px;
-		}
-
-		&:last-child {
-			border-radius: 0 5px 5px 0;
 		}
 	}
 }
@@ -240,17 +268,43 @@
 
 @media (max-width: 1250px) {
 	.spark-selected {
-		grid-template-rows: 310px minmax(0, 100%);
+		grid-template-rows: 30% minmax(0, 100%);
 		grid-template-columns: 100%;
 	}
 
 	.card-picker .card-picker-list {
-		grid-template-columns: repeat(3, 125px);
-	}
-}
+		display: flex;
+		flex-wrap: wrap;
+		grid-template-columns: initial;
+		grid-auto-rows: 75px;
+		grid-auto-columns: 75px;
 
-@media (max-width: 900px) {
-	.card-picker .card-picker-list {
-		grid-template-columns: repeat(2, 125px);
+		.card {
+			height: 75px !important;
+			width: 75px !important;
+		}
+	}
+
+	.spark-container {
+		display: flex;
+		flex-direction: column-reverse;
+
+		.card-picker.hidden {
+			margin: 0;
+		}
+
+		.card-picker.active {
+			height: 25%;
+		}
+
+		.spark-selected {
+			flex: 1;
+		}
+
+		// grid-template: 'picker' 25% 'selected' minmax(0, 100%) / 100%;
+
+		.highlight-img {
+			height: 60px;
+		}
 	}
 }
