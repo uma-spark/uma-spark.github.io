@@ -1,0 +1,256 @@
+#root {
+	width: 100vw;
+	height: 100vh;
+	// background-color: #242424;
+}
+
+.spark-container {
+	height: 100%;
+	width: 100%;
+	display: grid;
+	grid-template-columns: 1fr auto;
+	grid-template-rows: 100%;
+	gap: 8px;
+	background-color: black;
+}
+
+.highlight-img {
+	height: 91px;
+}
+
+.spark-selected {
+	display: grid;
+	grid-template-columns: 460px auto;
+	grid-template-rows: 100%;
+	gap: 32px;
+	margin: 8px 0 8px 8px;
+}
+
+.card-selected {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	gap: 8px;
+}
+
+.card-selected-list {
+	height: 100%;
+	width: 100%;
+	align-content: flex-start;
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: row;
+	justify-content: center;
+	gap: 8px;
+	overflow: hidden;
+}
+
+.card-picker {
+	display: flex;
+	flex-direction: column;
+	overflow: clip;
+	gap: 8px;
+	margin: 8px 8px 8px 0;
+
+	.filter-items {
+		display: flex;
+		width: 100%;
+
+		.filter-icon {
+			display: flex;
+			align-items: center;
+			justify-content: center;
+			cursor: pointer;
+
+			img {
+				opacity: 0.3;
+			}
+
+			&:hover {
+				img {
+					opacity: 1;
+				}
+			}
+
+			&.active {
+				img {
+					opacity: 1;
+				}
+
+				&:hover {
+					img {
+						opacity: 0.3;
+					}
+				}
+			}
+
+		}
+
+		>* {
+			height: 40px;
+			min-width: 40px;
+			font-size: 20px;
+			border: 1px gray solid;
+
+			&:first-child {
+				border-radius: 5px 0 0 5px;
+			}
+
+			&:last-child {
+				border-radius: 0 5px 5px 0;
+			}
+		}
+
+		img {
+			height: 30px;
+			position: relative;
+			top: 1px;
+		}
+
+		input {
+			flex: 1;
+			text-decoration: none;
+			background-color: black;
+			outline: none;
+			padding: 0 6px;
+		}
+	}
+
+	.photo-exit {
+		position: absolute;
+		right: 10px;
+		top: 10px;
+		height: 50px;
+	}
+
+	.card-picker-actions {
+		display: flex;
+	}
+
+	.card-picker-photo-actions {
+		display: flex;
+		position: absolute;
+		top: 10px;
+		right: 10px;
+
+		&.hide-menu {
+			display: none;
+		}
+	}
+
+	.notification {
+		position: absolute;
+		top: 50px;
+		right: 45px;
+	}
+
+	.card-picker-actions>*,
+	.card-picker-photo-actions>* {
+		height: 24px;
+		padding: 8px;
+		flex: 1;
+		border: 1px white solid;
+		cursor: pointer;
+		transition:
+			background-color 0.2s,
+			color 0.2s;
+
+		&:hover {
+			background-color: white;
+			color: black;
+		}
+
+		&:first-child {
+			border-radius: 5px 0 0 5px;
+		}
+
+		&:last-child {
+			border-radius: 0 5px 5px 0;
+		}
+	}
+}
+
+.card-picker .card-picker-list {
+	flex: 1;
+	display: grid;
+	grid-auto-columns: 125px;
+	grid-auto-rows: 125px;
+	gap: 8px;
+	overflow: scroll;
+	grid-template-columns: repeat(4, 125px);
+}
+
+.card {
+	position: relative;
+	cursor: pointer;
+	border: none;
+	padding: 0;
+	transition: height 0.25s;
+
+	.card-name,
+	.card-title {
+		overflow: hidden;
+		white-space: pre;
+		text-align: center;
+	}
+
+	.card-title {
+		font-size: 11px;
+		white-space: break-spaces;
+	}
+
+	.card-thumb {
+		height: 100%;
+	}
+
+	.status {
+		position: absolute;
+		top: 0;
+		right: 0;
+		height: 25%;
+		width: 25%;
+
+		.status-thumb {
+			height: 100%;
+			position: relative;
+			top: -5%;
+			right: -5%;
+		}
+	}
+
+	.card-hover {
+		width: 100%;
+		position: absolute;
+		bottom: 0;
+		right: 0;
+		left: 0;
+		padding: 5px 0;
+		background-color: transparent;
+		color: transparent;
+		transition:
+			background-color 0.25s,
+			color 0.1s;
+	}
+
+	&:hover .card-hover {
+		background-color: #000000c0;
+		color: white;
+	}
+}
+
+@media (max-width: 1250px) {
+	.spark-selected {
+		grid-template-rows: 310px minmax(0, 100%);
+		grid-template-columns: 100%;
+	}
+
+	.card-picker .card-picker-list {
+		grid-template-columns: repeat(3, 125px);
+	}
+}
+
+@media (max-width: 900px) {
+	.card-picker .card-picker-list {
+		grid-template-columns: repeat(2, 125px);
+	}
+}
